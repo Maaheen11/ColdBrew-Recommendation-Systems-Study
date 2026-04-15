@@ -32,7 +32,7 @@ All three models start equal at K=0 since no user-specific signal is available. 
 
 | User history available | Recommended model |
 |---|---|
-| K=0 (no history) | Any — all models are equivalent |
+| K=0 (no history) | Any, all models are equivalent |
 | K=5 onwards | DropoutNet |
 | New items with no interaction data | Semantic Embedding |
 | Fully warm users only | ALS |
