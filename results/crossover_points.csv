@@ -1,0 +1,5 @@
+model_a,model_b,crossover_k,metric,winner_after_crossover
+ALS,DropoutNet,5,recall,DropoutNet
+ALS,Semantic,10,recall,Semantic
+ALS,DropoutNet,5,ndcg,DropoutNet
+ALS,Semantic,5,ndcg,Semantic
